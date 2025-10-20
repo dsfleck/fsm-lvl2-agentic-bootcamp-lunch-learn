@@ -19,7 +19,9 @@ Build and deploy an Agentic AI Application prototype for an enterprise use caseâ
 1.) Login to the reservation using the link and credentials provided in your email <br>
 * Environment : <tz-link> <br>
 
-2.) Open the Hands-on Lab instructions [Lvl2-SRE-Agentic AI Bootcamp-Lab.pdf](./Lvl2-SRE-Agentic AI Bootcamp-Lab.pdf) and complete the lab <br>
+2.) Open the Hands-on Lab instructions [Lvl2-SRE-Agentic AI Bootcamp-Lab.pdf](./Lvl2-SRE-Agentic AI Bootcamp-Lab.pdf)
+
+and complete the lab <br>
 * The Jupyter notebook referenced in the lab is located here : [SRE Agent - ADK Agentic AI Lab.ipynb]() <br>
 
 3.) When you have completed the lab think about and be prepared to discuss the manual processes within your role or organization where you could leverage Agentic AI <br>
