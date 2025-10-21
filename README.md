@@ -21,7 +21,6 @@ Build and deploy an Agentic AI Application prototype for an enterprise use caseâ
 
 2.) Open the Hands-on Lab instructions [Lvl2-SRE-Agentic-AI-Bootcamp-Lab.pdf](./Lvl2-SRE-Agentic-AI-Bootcamp-Lab.pdf) and complete the lab <br>
 * The Jupyter notebook referenced in the lab is located here : [SRE-Agent-ADK-Agentic-AI-Lab.ipynb](./SRE-Agent-ADK-Agentic-AI-Lab.ipynb) <br>
-* The pdf file [SRE Incident Management Best Practices.pdf](./SRE%20Incident%20Management%20Best%20Practices.pdf), is the file you will upload to watsonx Orhcestrate as a Knowledge Base 
 
 3.) When you have completed the lab think about and be prepared to discuss the manual processes within your role or organization where you could leverage Agentic AI <br>
 
