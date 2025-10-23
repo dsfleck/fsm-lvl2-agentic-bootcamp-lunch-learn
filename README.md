@@ -17,7 +17,7 @@ Build and deploy an Agentic AI Application prototype for an enterprise use caseâ
 ### Instructions
 
 1.) Login to the reservation using the link and credentials provided in your email <br>
-* Environment : https://cloud.ibm.com/resourcesâ€‹ <br>
+* Environment : [https://cloud.ibm.com/resources](https://cloud.ibm.com/resources) <br>
 
 2.) Open the Hands-on Lab instructions [Lvl2-SRE-Agentic-AI-Bootcamp-Lab.pdf](./Lvl2-SRE-Agentic-AI-Bootcamp-Lab.pdf) and complete the lab <br>
 * The Jupyter notebook referenced in the lab is located here : [SRE-Agent-ADK-Agentic-AI-Lab.ipynb](./SRE-Agent-ADK-Agentic-AI-Lab.ipynb) <br>
